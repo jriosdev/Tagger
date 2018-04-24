@@ -7,10 +7,13 @@ Project demonstrating the tagging features in comments. Written in Swift 4.
 
 **Note** : This is just a project demostrating the working of Tagger and is not available as individual library on Cocoapods or Carthrage.
 
-#Sample
+# Sample
+<img src="https://github.com/amantaneja/Tagger/blob/master/Tagger.gif" height="600">
 
 
 ### Features
 - Directly use object model for autocompleting the view.
 - Deletes the complete tag on backspace. 
+
+
 - Cannot place cursor in between the tag.
