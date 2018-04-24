@@ -10,10 +10,16 @@ Project demonstrating the tagging features in comments. Written in Swift 4.
 # Sample
 <img src="https://github.com/amantaneja/Tagger/blob/master/Tagger.gif" height="600">
 
-
 ### Features
 - Directly use object model for autocompleting the view.
-- Deletes the complete tag on backspace. 
+- Deletes the complete tag on backspace. <br> <br><img src="https://github.com/amantaneja/Tagger/blob/master/Deletion.gif" height = "180" width= "380"><br>
 
+- Cannot place cursor in between the tag. <br><br><img src="https://github.com/amantaneja/Tagger/blob/master/Cursor.gif" height = "180" width= "380">
 
-- Cannot place cursor in between the tag.
+## Requirements
+- Swift 4.x or above
+- Xcode 9.x or above
+
+[**★Star**](#) this repo. 
+
+http://www.azquotes.com/quote/1071628
